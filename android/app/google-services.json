@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910471655106",
+    "project_id": "registrobelen-27af9",
+    "storage_bucket": "registrobelen-27af9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910471655106:android:436fd82fd9c877cb47155b",
+        "android_client_info": {
+          "package_name": "com.example.registrobelen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYKH1PmvNhvPFLz94mDsU9m3pTpnBrGM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
